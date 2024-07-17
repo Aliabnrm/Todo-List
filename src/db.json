@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "e917",
+      "title": "redux",
+      "isDone": true
+    },
+    {
+      "id": "1050",
+      "title": "react",
+      "isDone": false
+    },
+    {
+      "id": "d3c1",
+      "title": "js",
+      "isDone": false
+    }
+  ]
+}
